@@ -1,0 +1,77 @@
+@font-face {
+    font-family: j;
+    src: url(../font/MTNBrighterSans-Regular.otf);
+}
+header{
+    background-color: yellow;
+    display: flex;
+    padding-left: 70px;
+    width: 100%;
+    margin-top: 0px;
+   
+}
+
+
+body{
+    background-image: url(../images/background.png);
+    background-repeat: no-repeat;
+    
+    
+}
+h3{
+    color: white;
+
+}
+section{
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+}
+main{
+    background-color: whitesmoke;
+    margin-right: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+main h4{
+    background: yellow;
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-bottom: 50px;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+form{
+    margin:0 auto;
+    width: 70%;
+
+
+}
+form{
+     margin-bottom: 10px;
+    
+}
+main a{
+    background-color: yellow;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    width: 70%;
+   
+    
+}
+footer{
+    background-color: white;
+    margin-bottom: 0px;
+    margin-top: 300px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
